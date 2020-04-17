@@ -1,0 +1,4 @@
+[debug] [recfun-test] Classpath dependencies List()
+[debug] [recfun-test] Dependencies from configurations List(recfun)
+[debug] Bloop wrote the configuration of project 'recfun-test' to '/home/mmahrous/mnt/Bits/Learning/Courses/FP with Scala/C1 - FP Principles/Week 1 /recfun/.bloop/recfun-test.json'
+[success] Generated .bloop/recfun-test.json

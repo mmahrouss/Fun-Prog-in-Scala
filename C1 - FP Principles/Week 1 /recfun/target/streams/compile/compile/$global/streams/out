@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/mmahrous/mnt/Bits/Learning/Courses/FP with Scala/C1 - FP Principles/Week 1 /recfun/src/main/scala/recfun/RecFun.scala:35:19: stable identifier required, but scala.collection.immutable.List.empty found.[0m
+[0m[[0m[31merror[0m] [0m[0m        case List.empty => cntOpening == 0[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
